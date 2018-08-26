@@ -18,7 +18,7 @@ npm install
 
 ### Development
 
-`Now, run`  It will start yur project and open in browser
+To start yur project and open in browser , run
 ```ruby
 npm start 
 ```
