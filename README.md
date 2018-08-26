@@ -1,13 +1,13 @@
 Project: react-boilerplate
 ===========
 
-###Description
+### Description
 This is a react-boilerplate , To start any project in react js you can clone this repo. & have a good start .
 
-###Before you begin
+### Before you begin
 Before installing anything, please check if you have node  installed on your system.
 
-####To install dependencies
+### To install dependencies
 
 `cd` into the directory and run
 
